@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1051896929867",
+    "project_id": "testmessage-e9e59",
+    "storage_bucket": "testmessage-e9e59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051896929867:android:4164d4b33eba5b510f37ce",
+        "android_client_info": {
+          "package_name": "com.codingwithme.keetli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051896929867-u7r8dk7mog1qh9sheja4f5o20oos8fui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI9oxu4OsukE7V458EhWY5lSjW33MfDjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051896929867-u7r8dk7mog1qh9sheja4f5o20oos8fui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
